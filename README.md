@@ -45,6 +45,9 @@ To verify that answers are grounded in the ingested document rather than paramet
 ### Test Query
 > *"In the Collaborative Unmanned Ground and Aerial Systems Technical Screening Examination, who is the candidate listed on the exam paper, what is the exact Theory vs Practical marks split, and what are the instructions for Part A?"*
 
+<img width="1206" height="913" alt="Screenshot 2026-11-13 161804" src="https://github.com/user-attachments/assets/1baed7a4-b284-4405-88f5-23872a3ed4a2" />
+
+
 ### Top Retrieved Context (`Page 0`)
 ```text
 COLLABORATIVE UNMANNED GROUND AND AERIAL SYSTEMS
